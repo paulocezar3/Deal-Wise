@@ -9,8 +9,7 @@ html{
 }
 body{
     background: linear-gradient(to bottom, rgb(177, 4, 212), rgb(46, 7, 97)) no-repeat;;
-    width: 800px;
-    border-radius:10px ;
+    width: 900px;
     margin: auto;
     min-width: 300px;
     max-width: 1000px;
@@ -34,6 +33,7 @@ nav >a:hover{
     text-decoration: underline;
 }
 main{
+    width: 1000px;
     height: 400px;
     color: white;
     background: url(../imagens/compra.png) no-repeat top right ;
